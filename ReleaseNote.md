@@ -1,5 +1,12 @@
 # Release note
 
+## v1.3.0
+
+### Changes
+
+- Change Avalonia.Desktop version to 11.3.0.
+- Change Charites version to 3.2.0.
+
 ## v1.2.0
 
 ### Changes
